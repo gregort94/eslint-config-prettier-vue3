@@ -1,4 +1,5 @@
 {
+  "name": "eslint-prettier-config-vue3",
   "description": "",
   "dependencies": {
     "@vue/eslint-config-typescript": "^11.0.3",
