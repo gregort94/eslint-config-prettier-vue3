@@ -1,0 +1,13 @@
+{
+  "description": "",
+  "dependencies": {
+    "@vue/eslint-config-typescript": "^11.0.3",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-vue": "^9.15.1"
+  },
+  "peerDependencies": {
+    "eslint": "*",
+    "prettier": "*"
+  }
+}
